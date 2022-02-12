@@ -1,0 +1,8 @@
+git clone: clonar un repositorio
+git add: versionar los cambios realizados
+git commit -m "mensaje" : para confirmar los cambios
+git push: subir los cambios a la nube
+git pull: para descargar los cambios de la nube
+
+
+antes de push hacer pull
