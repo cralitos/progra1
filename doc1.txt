@@ -1,1 +1,2 @@
 prueba 1
+esta es una practica del uso de git
